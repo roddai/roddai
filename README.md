@@ -4,7 +4,7 @@
  
 👨🏻‍🎓 Sou também mestre em Ciências pelo [ITA](http://www.ita.br/), graduado em Matemática [UNIVESP](https://univesp.br/) e graduado em Ciência da Computação pela UniABC.
 
-🧑🏻‍💻 Atualmente trabalho professor na [FECAP](https://fecap.br/).
+🧑🏻‍💻 Atualmente trabalho professor na [FECAP](https://www.fecap.br/).
 
 📚 Ensino Banco de Dados em cursos técnicos e Matemática no ensino Médio.
 
