@@ -4,11 +4,15 @@
  
 👨🏻‍🎓 Sou também mestre em Ciências pelo [ITA](http://www.ita.br/), graduado em Matemática [UNIVESP](https://univesp.br/) e graduado em Ciência da Computação pela UniABC.
 
-🧑🏻‍💻 Atualmente trabalho como Especialista em Desenvolvimento Web na [Trybe](https://www.betrybe.com/).
+🧑🏻‍💻 Atualmente trabalho professor na [FECAP](https://fecap.br/).
 
-📚 Ensino Unix & Shell, Git & GitHub, HTML, CSS & JavaScript (básico ao avançado), HTML Semântico, DOM e Testes Unitários com Jest.
+📚 Ensino Banco de Dados em cursos técnicos e Matemática no ensino Médio.
+
+🧑🏻‍💻 Trabalhei como Especialista em Desenvolvimento Web na [Trybe](https://www.betrybe.com/).
 
 📚 Já lecionei em Universidades as disciplinas: Banco de dados I e II, Lógica de Programação, Algoritmos e Programação, Sistemas Operacionais I e II, Física Aplicada à Computação, Sistemas Multimídia e Realidade Virtual, entre outras.
+
+📚 Lecionei Unix & Shell, Git & GitHub, HTML, CSS & JavaScript (básico ao avançado), HTML Semântico, DOM e Testes Unitários com Jest.
 
 💙 Sou apaixonado por tecnologia e educação atuando nesta área desde 2005!
 
