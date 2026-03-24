@@ -4,9 +4,11 @@
  
 👨🏻‍🎓 Sou também mestre em Ciências pelo [ITA](http://www.ita.br/), graduado em Matemática [UNIVESP](https://univesp.br/) e graduado em Ciência da Computação pela UniABC.
 
-🧑🏻‍💻 Atualmente trabalho professor na [FECAP](https://www.fecap.br/).
+🧑🏻‍💻 Atualmente trabalho como professor na [FECAP](https://www.fecap.br/).
 
-📚 Ensino Banco de Dados em cursos técnicos e Matemática no ensino Médio.
+📚 Ensino Banco de Dados e JavaScript em cursos técnicos e Matemática no ensino Médio.
+
+📚 Ensino Sistemas Operacionais e Computação em Nuvem, Programação Avançada e Programação para Dispositivos Móveis na graduação da [FECAP](https://www.fecap.br/) (Ciência da Computação | Análise e Desenvolvimento de Sistemas).
 
 🧑🏻‍💻 Trabalhei como Especialista em Desenvolvimento Web na [Trybe](https://www.betrybe.com/).
 
